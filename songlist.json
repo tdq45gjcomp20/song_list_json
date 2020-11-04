@@ -1,62 +1,62 @@
 [
       {
-        "artist": "BLACKPINK",
+        "artist": ["BLACKPINK"],
         "title": "How You Like That",
-        "genre": "K-Pop",
+        "genre": ["K-Pop"],
         "year": "2020"
       },
       {
-        "artist": "BIGBANG",
+        "artist": ["BIGBANG"],
         "title": "If You",
-        "genre": "K-Pop",
+        "genre": ["K-Pop"],
         "year": "2016"
       },
       {
-        "artist": "JENNIE",
+        "artist": ["JENNIE"],
         "title": "SOLO",
-        "genre": "K-Pop",
+        "genre": ["K-Pop"],
         "year": "2018"
       },
       {
-        "artist": "Ariana Grande",
+        "artist": ["Ariana", "Grande"],
         "title": "7 Rings",
-        "genre": "Pop",
+        "genre": ["Pop"],
         "year": "2019"
       },
       {
-        "artist": "Camila Cabello, Young Thug",
+        "artist": ["Camila Cabello", "Young Thug"],
         "title": "Havana (feat. Young Thug)",
-        "genre": "Pop",
+        "genre": ["Pop"],
         "year": "2018"
       },
       {
-        "artist": "Bebe Rexha",
+        "artist": ["Bebe Rexha"],
         "title": "I'm a Mess",
-        "genre": "Pop",
+        "genre": ["Pop"],
         "year": "2018"
       },
       {
-        "artist": "Demi Lovato",
+        "artist": ["Demi Lovato"],
         "title": "Sorry Not Sorry",
-        "genre": "Pop",
+        "genre": ["Pop"],
         "year": "2017"
       },
       {
-        "artist": "Dua Lipa",
+        "artist": ["Dua Lipa"],
         "title": "IDGAF",
-        "genre": "Pop",
+        "genre": ["Pop"],
         "year": "2017"
       },
       {
-        "artist": "Demi Lovato",
+        "artist": ["Demi Lovato"],
         "title": "Heart Attack",
-        "genre": "Pop",
+        "genre": ["Pop"],
         "year": "2013"
       },
       {
-        "artist": "BLACKPINK",
+        "artist": ["BLACKPINK"],
         "title": "Kill This Love",
-        "genre": "K-Pop",
+        "genre": ["K-Pop"],
         "year": "2019"
       }
   ]
