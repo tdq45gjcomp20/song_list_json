@@ -2,19 +2,19 @@
       {
         "artist": ["BLACKPINK"],
         "title": "How You Like That",
-        "genre": ["K-Pop"],
+        "genre": ["K-Pop", "Pop"],
         "year": "2020"
       },
       {
         "artist": ["BIGBANG"],
         "title": "If You",
-        "genre": ["K-Pop"],
+        "genre": ["K-Pop", "Pop"],
         "year": "2016"
       },
       {
         "artist": ["JENNIE"],
         "title": "SOLO",
-        "genre": ["K-Pop"],
+        "genre": ["K-Pop", "Pop"],
         "year": "2018"
       },
       {
@@ -56,7 +56,25 @@
       {
         "artist": ["BLACKPINK"],
         "title": "Kill This Love",
-        "genre": ["K-Pop"],
+        "genre": ["K-Pop", "Pop"],
         "year": "2019"
+      },
+      {
+        "artist": ["Brad Paisley"],
+        "title": "Welcome to the Future",
+        "genre": ["Country"],
+        "year": "2009"
+      },
+      {
+        "artist": ["Johnny Cash"],
+        "title": "I Walk the Line",
+        "genre": ["Country"],
+        "year": "1956"
+      },
+      {
+        "artist": ["Frank Sinatra"],
+        "title": "Fly Me To The Moon",
+        "genre": ["Jazz"],
+        "year": "1954"
       }
   ]
